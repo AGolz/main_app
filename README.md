@@ -25,6 +25,7 @@ INSTALLED_APPS = [
 4.  Apply migrations to create the necessary database tables:
 
 `python manage.py makemigrations tree_menu`
+
 `python manage.py migrate`
 
 ## Usage
